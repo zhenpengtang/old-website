@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BlackRice
+title: 黑米
 email: 15594855@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  摘自《小西天狄道传奇》
+  扫地为何？ 为了静地。 静地为何？ 为了静心。 静心为何？ 静心方能见众生。见得了众生，方能勘破生死。生敬天地之心，心无挂碍。无挂而故，无有恐怖。远离颠倒梦想，究竟涅槃。
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zhenpengtang
