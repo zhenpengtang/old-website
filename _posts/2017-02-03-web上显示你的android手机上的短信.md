@@ -3,6 +3,23 @@ layout: post
 title: Web上显示你的android手机上的短信
 ---
 
+前言：我有一个移动号要收短信，联通号用来上网。带两个手机好麻烦。
+那我就带iphone加联通号上网。又要查看移动的短信。
+用过好多方法tasker+ pushbullet 有时候会断线收不到。
+tasker+直接短信转发，成本高。tasker+http+twilio,多了个twilio也麻烦，
+后来就直接做http post上服务器，看的时候get 一下 。
+用的tornado +bootstrap简单一点，css不会啊，好丑啊。将就用一下吧。
+有朋友能帮我弄好看，请联系，有不会的，我也会耐心教的。
+
+上我的网站看短信。我的短信经过过滤。可能发短信到我的手机号测试
+
+####联通号17620388002
+
+http://103.253.25.63:7777/showyoursms
+
+
+
+
 ### On your linux
 
 SMSInbox
@@ -47,6 +64,7 @@ number=xxxxx
 text=xxxxxx
 datetime=xxxxx
 ```
+
 
 最后按下面左边的三角号,发射
 
