@@ -6,13 +6,13 @@ title: Web上显示你的android手机上的短信
 ### On your linux
 
 SMSInbox
+
 ```
 git clone http://zhenpengtang.github.com/SMSInbox
 ```
 
 #### 注意
 * 建议局域网测试先
-
 
 ```bash
 $cd SMSInbox
@@ -40,6 +40,7 @@ http://linux_ip_address:8888/test?get_token=xxxmd5sumxxx
 * 服务器:端口 `linux_ip_address:8888`
 * 路径: `test`
 * 数据:
+
 ```
 post_token=xxxanother_md5sumxxx
 number=xxxxx
