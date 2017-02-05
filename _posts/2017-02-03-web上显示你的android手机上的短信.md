@@ -37,10 +37,8 @@ http://linux_ip_address:8888/test?get_token=xxxmd5sumxxx
 以下是步骤:
 
 +号>事件>电话>收到短信>任意改短信，按返回>新建任务>输入任务名>+号>网络>HTTP POST>
-* 服务器:端口 
-`linux_ip_address:8888`
-* 路径: 
-`test`
+* 服务器:端口 `linux_ip_address:8888`
+* 路径: `test`
 * 数据:
 ```
 post_token=xxxanother_md5sumxxx
