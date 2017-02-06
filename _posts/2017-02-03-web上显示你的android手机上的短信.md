@@ -1,7 +1,18 @@
 ---
 layout: post
-title: Web上显示你的android手机上的短信
+title: web上显示你的android手机上的短信
 ---
+## 材料：
+* Anroid手机一部带SIM卡能上网
+* iPhone手机一部能上网
+* 公网能连接的address & port
+
+## 功能：
+* 可以在iPhone上查看你的Android的短信
+
+## 免费测试
+1. 发送一条有test字符的短信到17620388002
+2. 然后打开[测试页](http://103.253.25.63:7777/showyoursms)
 
 ## 前言
 我有一个移动号要收短信，联通号用来上网。带两个手机好麻烦。
@@ -12,6 +23,8 @@ tasker+直接短信转发，成本高。tasker+http+twilio,多了个twilio也麻
 用的tornado +bootstrap简单一点，css不会啊，好丑啊。将就用一下吧。
 有朋友能帮我弄好看，请联系，有不会的，我也会耐心教的。
 
+## 实现功能
+android手机收到短信先POST到服务器，再从pushbullet发送到iphone
 
 ## 免费测试
 上我的网站看短信。我的短信经过过滤。可能发短信到我的手机号测试
