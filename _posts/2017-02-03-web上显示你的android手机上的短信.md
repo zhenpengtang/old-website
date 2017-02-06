@@ -3,7 +3,7 @@ layout: post
 title: Web上显示你的android手机上的短信
 ---
 
-##前言
+## 前言
 我有一个移动号要收短信，联通号用来上网。带两个手机好麻烦。
 那我就带iphone加联通号上网。又要查看移动的短信。
 用过好多方法tasker+ pushbullet 有时候会断线收不到。
@@ -13,7 +13,7 @@ tasker+直接短信转发，成本高。tasker+http+twilio,多了个twilio也麻
 有朋友能帮我弄好看，请联系，有不会的，我也会耐心教的。
 
 
-##免费测试
+## 免费测试
 上我的网站看短信。我的短信经过过滤。可能发短信到我的手机号测试
 只须要发一条有test的短信你就可以在网页上看到的，没有免费短信慎发
  
@@ -39,9 +39,9 @@ $cd SMSInbox
 $python app
 ```
 
-####打开连接[测试页](http://linux_ip_address:8888/showyoursms)有显示代表成功了
+#### 打开连接[测试页](http://linux_ip_address:8888/showyoursms)有显示代表成功了
 
-##客户端Android
+## 客户端Android
 下载叫tasker的神器，安装好运行
 
 以下是步骤:
@@ -63,3 +63,5 @@ $python app
 
 最后按下面左边的三角号,发射
 打开link看看http://linux_ip_address:8888/test?get_token=xxxmd5sumxxx
+
+
