@@ -1,4 +1,4 @@
-yout: post
+layout: post
 title: Web上显示你的android手机上的短信
 ---
 
