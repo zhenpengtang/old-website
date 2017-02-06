@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 黑米
-email: 15594855@qq.com
+email: i.inet@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   摘自《小西天狄道传奇》
   扫地为何？ 为了静地。 静地为何？ 为了静心。 静心为何？ 静心方能见众生。见得了众生，方能勘破生死。生敬天地之心，心无挂碍。无挂而故，无有恐怖。远离颠倒梦想，究竟涅槃。
