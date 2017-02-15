@@ -5,7 +5,7 @@ title: web上显示你的android手机上的短信
 ## 效果图
 
  ![android](https://zhenpengtang.github.io/my_pics/2017_02_15_14.40.10_Ink_LI.jpg)
- ![iphone](https://zhenpengtang.github.io/my_pics/IMG_3513.png)
+ ![iphone](https://zhenpengtang.github.io/my_pics/IMG_3513_Ink_LI.jpg)
 
 ## 材料：
 * Anroid手机一部带SIM卡能上网
