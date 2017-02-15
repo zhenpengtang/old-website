@@ -2,6 +2,10 @@
 layout: post
 title: web上显示你的android手机上的短信
 ---
+## 效果图
+
+ `![](my_pics/2017_02_15_14.40.10_Ink_LI.jpg)`
+
 ## 材料：
 * Anroid手机一部带SIM卡能上网
 * iPhone手机一部能上网
